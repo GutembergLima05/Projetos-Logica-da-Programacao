@@ -1,0 +1,15 @@
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\bin\Debug\net6.0\beecrowd1041.exe
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\bin\Debug\net6.0\beecrowd1041.deps.json
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\bin\Debug\net6.0\beecrowd1041.runtimeconfig.json
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\bin\Debug\net6.0\beecrowd1041.dll
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\bin\Debug\net6.0\beecrowd1041.pdb
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.csproj.AssemblyReference.cache
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.AssemblyInfoInputs.cache
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.AssemblyInfo.cs
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.csproj.CoreCompileInputs.cache
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.dll
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\refint\beecrowd1041.dll
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.pdb
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\beecrowd1041.genruntimeconfig.cache
+C:\Users\jlima\source\repos\beecrowd1041\beecrowd1041\obj\Debug\net6.0\ref\beecrowd1041.dll
