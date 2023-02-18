@@ -1,0 +1,15 @@
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\bin\Debug\net6.0\beecrowd1047.exe
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\bin\Debug\net6.0\beecrowd1047.deps.json
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\bin\Debug\net6.0\beecrowd1047.runtimeconfig.json
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\bin\Debug\net6.0\beecrowd1047.dll
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\bin\Debug\net6.0\beecrowd1047.pdb
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.csproj.AssemblyReference.cache
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.AssemblyInfoInputs.cache
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.AssemblyInfo.cs
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.csproj.CoreCompileInputs.cache
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.dll
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\refint\beecrowd1047.dll
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.pdb
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\beecrowd1047.genruntimeconfig.cache
+C:\Users\jlima\OneDrive\Área de Trabalho\ProjetosC#\beecrowd1047\beecrowd1047\obj\Debug\net6.0\ref\beecrowd1047.dll
