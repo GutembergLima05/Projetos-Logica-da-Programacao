@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\bin\Debug\net6.0\beecrod1131.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\bin\Debug\net6.0\beecrod1131.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\bin\Debug\net6.0\beecrod1131.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\bin\Debug\net6.0\beecrod1131.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\bin\Debug\net6.0\beecrod1131.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\refint\beecrod1131.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\beecrod1131.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrod1131\beecrod1131\obj\Debug\net6.0\ref\beecrod1131.dll
