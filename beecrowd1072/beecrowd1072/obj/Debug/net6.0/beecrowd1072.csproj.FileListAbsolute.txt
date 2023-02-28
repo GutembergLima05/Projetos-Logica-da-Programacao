@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\bin\Debug\net6.0\beecrowd1072.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\bin\Debug\net6.0\beecrowd1072.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\bin\Debug\net6.0\beecrowd1072.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\bin\Debug\net6.0\beecrowd1072.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\bin\Debug\net6.0\beecrowd1072.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\refint\beecrowd1072.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\beecrowd1072.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\beecrowd1072\beecrowd1072\obj\Debug\net6.0\ref\beecrowd1072.dll
