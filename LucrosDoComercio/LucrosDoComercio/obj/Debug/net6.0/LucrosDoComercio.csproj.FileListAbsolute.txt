@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\bin\Debug\net6.0\LucrosDoComercio.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\bin\Debug\net6.0\LucrosDoComercio.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\bin\Debug\net6.0\LucrosDoComercio.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\bin\Debug\net6.0\LucrosDoComercio.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\bin\Debug\net6.0\LucrosDoComercio.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\refint\LucrosDoComercio.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\LucrosDoComercio.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\LucrosDoComercio\LucrosDoComercio\obj\Debug\net6.0\ref\LucrosDoComercio.dll
